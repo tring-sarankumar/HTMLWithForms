@@ -29,7 +29,7 @@ const setSuccess = element => {
 };
 
 const isValidEmail = email => {
-    const re = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+    const re = /^[a-zA-Z0-9+_.-]+@[a-zA-Z0-9.-]+$/;
     return re.test(String(email).toLowerCase());
 }
 
