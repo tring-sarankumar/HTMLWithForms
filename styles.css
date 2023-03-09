@@ -6,7 +6,7 @@ body {
 #form {
     width: 300px;
     margin: 20vh auto 0 auto;
-    padding: 20px;
+    padding: 3rem;
     background-color: whitesmoke;
     border-radius: 4px;
     font-size: 12px;
@@ -18,7 +18,7 @@ body {
 }
 
 #form button {
-    padding: 10px;
+    padding: 0.5rem;
     margin-top: 10px;
     width: 100%;
     color: white;
@@ -37,7 +37,7 @@ body {
 	border-radius: 4px;
 	display: block;
 	font-size: 12px;
-	padding: 10px;
+	padding: 0.6rem;
 	width: 100%;
 }
 
